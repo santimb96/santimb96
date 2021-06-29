@@ -11,12 +11,13 @@
 - 📘 Además, soy técnico en Sistemas Microinformáticos y Redes
 - 🥅 Mi meta para 2021 consiste en seguir aprendiendo cada día más
 
+<!--### ¿Quieres saber lo que ando escuchando?
+[![Spotify](https://novatorem-3gotzafzy-santimb96.vercel.app//api/spotify)](https://open.spotify.com/user/1173338041)-->
+
 
 ### Mis estadísticas son:
 
 <p><img align="center" src="https://github.com/santimb96/github-stats-transparent/blob/output/generated/languages.svg"></p>
 <p><img align="center" src="https://github.com/santimb96/github-stats-transparent/blob/output/generated/overview.svg"></p>
 
-### ¿Quieres saber lo que ando escuchando?
-[![Spotify](https://novatorem-3gotzafzy-santimb96.vercel.app//api/spotify)](https://open.spotify.com/user/1173338041)
 

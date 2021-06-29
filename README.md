@@ -17,3 +17,7 @@
 <p><img align="left" src="https://github.com/santimb96/github-stats-transparent/blob/output/generated/languages.svg"></p>
 <p><img align="left" src="https://github.com/santimb96/github-stats-transparent/blob/output/generated/overview.svg"></p>
 
+### ¿Quieres saber lo que ando escuchando?
+
+[![Spotify](https://novatorem-santimb96.vercel.app/api/spotify)](https://open.spotify.com/user/1173338041)
+

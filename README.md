@@ -11,5 +11,7 @@
 - 📘 Soy técnico en Sistemas Microinformáticos y Redes.
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en" alt="santimb96" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santimb96&" alt="santimb96" /></p>
 

@@ -14,7 +14,7 @@
 
 ## ESTADÍSTICAS DE TRABAJO
 
-![GitHub metrics](https://metrics.lecoq.io/santimb96)
+![GitHub metrics](https://metrics.lecoq.io/santimb96)<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en" alt="santimb96" /></p>
 

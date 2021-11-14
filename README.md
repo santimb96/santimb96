@@ -8,7 +8,7 @@
 
 
 - Conocimientos avanzados en bases de datos (relacionales y no relacionales).
-- Manejo directo de diversos lenguajes como JS, PHP, Python y Java.
+- Dispongo de conocimientos más que suficientes acerca de lenguajes base (PHP, Java, JS, Python...), y de sus frameworks (Laravel, Spring, Vue.js/React.js/Angular.js...).
 - Soy técnico en Sistemas Microinformáticos y Redes.
 
 

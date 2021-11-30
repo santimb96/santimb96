@@ -18,14 +18,14 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en" alt="santimb96" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en&theme=dark" alt="santimb96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santimb96&" alt="santimb96" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santimb96&theme=dark" alt="santimb96" /></p>
 
 
 ## LENGUAJES MÁS USADOS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimb96)](https://github.com/santimb96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santimb96&theme=dark)](https://github.com/santimb96/github-readme-stats)
 
 
 

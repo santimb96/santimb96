@@ -14,9 +14,7 @@
 
 ## ESTADÍSTICAS DE TRABAJO
 
-![GitHub metrics](https://metrics.lecoq.io/santimb96)<br>
-
-
+<img align="center" src="https://www.codewars.com/users/santimb96/badges/large" alt="santimb96-codewars" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en&theme=dark" alt="santimb96" /></p>
 

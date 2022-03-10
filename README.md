@@ -1,24 +1,23 @@
 ## ¡Hola a todos! Me llamo Santi, ¡encantado! 👋
 
-### ¡Soy desarrollador web, entrenador de balonmano y amante de de la tecnología y lo retro!
+### ¡Soy desarrollador web, entrenador de balonmano y amante de lo retro!
 
-### Actualmente estudio desarrollo web en Mallorca!
+Estoy acabando el 2º curso de Desarrollo de Aplicaciones Web en Palma de Mallorca. Mientras, los findes son dedicados al balonmano, que es mi otra pasión.
 
-### Algunas de mis habilidades son:
+De todo con lo que he trabajado me quedo con los entornos en Front y, en especial, con JavaScript. Le he cogido el truco y también cariño. Tampoco descarto trabajar con bases de datos, en entornos Back con librerias de Node o frameworks de PHP, ni tampoco maquetando webs.
 
-
-- Conocimientos avanzados en bases de datos (relacionales y no relacionales).
-- Dispongo de conocimientos más que suficientes acerca de lenguajes base (PHP, Java, JS, Python...), y de sus frameworks (Laravel, Spring, Vue.js/React.js/Angular.js...).
-- Soy técnico en Sistemas Microinformáticos y Redes.
+Listo para aprender y trabajar, pero sobre todo lo primero.
 
 
 ## ESTADÍSTICAS DE TRABAJO
 
-<img align="center" src="https://www.codewars.com/users/santimb96/badges/large" alt="santimb96-codewars" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en&theme=dark" alt="santimb96" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santimb96&show_icons=true&locale=en&theme=dark" alt="santimb96" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santimb96&theme=dark" alt="santimb96" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santimb96&theme=dark" alt="santimb96" /></p>
+
+### CODEWARS:
+<img align="center" src="https://www.codewars.com/users/santimb96/badges/large" alt="santimb96-codewars" /><br>
 
 
 ## LENGUAJES MÁS USADOS

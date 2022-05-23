@@ -1,12 +1,12 @@
-## ¡Hola a todos! Me llamo Santi, ¡encantado! 👋
+## ¡Buenas a todos! ¡Soy Santi, encantado! 👋
 
-### ¡Soy desarrollador web, entrenador de balonmano y amante de lo retro!
+### Soy programador web, amante del balonmano y...¡un jugón!
 
-Estoy acabando el 2º curso de Desarrollo de Aplicaciones Web en Palma de Mallorca. Mientras, los findes son dedicados al balonmano, que es mi otra pasión.
+Soy técnico en sistemas microinformáticos y redes y, además, programador web.
 
-De todo con lo que he trabajado me quedo con los entornos en Front y, en especial, con JavaScript. Le he cogido el truco y también cariño. Tampoco descarto trabajar con bases de datos, en entornos Back con librerias de Node o frameworks de PHP, ni tampoco maquetando webs.
+Durante todos estos años me he dedicado al mundo de la enseñanza en el ámbito del deporte, compaginando mi trabajo con mis estudios en informática hasta día de hoy, que me puedo dedicar a ambas cosas.
 
-Listo para aprender y trabajar, pero sobre todo lo primero.
+Soy una persona perfeccionista y perseverante, en constante evolución personal y profesional y abierto a cualquier tipo de oportunidad.
 
 
 ## ESTADÍSTICAS DE TRABAJO
